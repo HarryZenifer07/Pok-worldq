@@ -17,7 +17,7 @@ import helpers
 
 logging.basicConfig(level=logging.INFO)
 
-bot_token = ("NzM0NTA5NjgwMDEyODIwNTUw.XxSvnw.jhKkB7RQ-ejWWOlW8Mt0daAhjYw")
+bot_token = ("NzM0NTekskskdkdjd.XxSvnw.jhKkB7RQ-ejWWOlW8Mt0daAhjYw")
 env = os.getenv("ENV")
 
 
